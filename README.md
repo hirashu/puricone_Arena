@@ -1,6 +1,10 @@
 # pricone-arena
+内容：プリンセスコネクトのアリーナのチーム編成を教えてくれるアプリ
+対戦相手の編成から、勝利率の高い編成を紹介する。
 
-> pricone-arena tensolSOM view
+## 開発環境
+Vue2
+Python ：別リポジトリ
 
 ## Build Setup
 
